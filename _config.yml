@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: lone_canoe@163.com
 description: "OMSCS自学转码当中"
 keyword: "素履, sulv的blog, OMSCS, 自学转码, 博客"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+url: "http://lonecanoe.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
